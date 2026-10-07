@@ -124,13 +124,8 @@ Diwali-Sales-Analysis/
 └── dataset/
     └── Diwali Sales Data.csv
 ```
-
-> **Note:** Update the file names above if your actual repository structure is different.
-
 ---
 
 ## 👩‍💻 Author
 
 **Mehak Dixit**
-
-If you found this project useful, feel free to ⭐ the repository!
