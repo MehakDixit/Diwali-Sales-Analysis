@@ -1,9 +1,6 @@
 # Python Diwali Sales Analysis
 
 ## 📌 Overview
-
-**Diwali Sales Analysis** is a Python-based data analysis project focused on understanding **customer purchasing behavior, sales trends, and product performance** using Diwali sales data.
-
 The project applies data cleaning, exploratory data analysis (EDA), and visualization techniques to extract meaningful business insights that can help improve **customer targeting, inventory planning, and sales strategies**.
 
 ---
